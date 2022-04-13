@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/handAccount-H5/static/css/main.361b6dea.chunk.css",
+    "main.js": "/handAccount-H5/static/js/main.087f5ae2.chunk.js",
+    "main.js.map": "/handAccount-H5/static/js/main.087f5ae2.chunk.js.map",
+    "runtime-main.js": "/handAccount-H5/static/js/runtime-main.7e9d2f7e.js",
+    "runtime-main.js.map": "/handAccount-H5/static/js/runtime-main.7e9d2f7e.js.map",
+    "static/css/2.7ff0d8b2.chunk.css": "/handAccount-H5/static/css/2.7ff0d8b2.chunk.css",
+    "static/js/2.942c5c7a.chunk.js": "/handAccount-H5/static/js/2.942c5c7a.chunk.js",
+    "static/js/2.942c5c7a.chunk.js.map": "/handAccount-H5/static/js/2.942c5c7a.chunk.js.map",
+    "index.html": "/handAccount-H5/index.html",
+    "precache-manifest.6f6977014ed6e581d5f8268765b37ecb.js": "/handAccount-H5/precache-manifest.6f6977014ed6e581d5f8268765b37ecb.js",
+    "service-worker.js": "/handAccount-H5/service-worker.js",
+    "static/css/2.7ff0d8b2.chunk.css.map": "/handAccount-H5/static/css/2.7ff0d8b2.chunk.css.map",
+    "static/css/main.361b6dea.chunk.css.map": "/handAccount-H5/static/css/main.361b6dea.chunk.css.map",
+    "static/js/2.942c5c7a.chunk.js.LICENSE.txt": "/handAccount-H5/static/js/2.942c5c7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e9d2f7e.js",
+    "static/css/2.7ff0d8b2.chunk.css",
+    "static/js/2.942c5c7a.chunk.js",
+    "static/css/main.361b6dea.chunk.css",
+    "static/js/main.087f5ae2.chunk.js"
+  ]
+}
